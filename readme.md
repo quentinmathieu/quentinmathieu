@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A fullstack developer from France.</h3>
 
-- 🔭 I’m currently working on [Sasageyo chrome extension](https://github.com/quentinmathieu/sasageyo_chrome_extension) via [Dumb attack on titan CSS AKA 'sasageyo'](https://github.com/quentinmathieu/Attack_on_titan_CSS)
+- 🔭 I’m currently working on [Sasageyo chrome extension](https://github.com/quentinmathieu/sasageyo_chrome_extension) with [Dumb attack on titan CSS AKA 'sasageyo'](https://github.com/quentinmathieu/Attack_on_titan_CSS)
 
 - 🌱 I’m currently learning **Spring, React & React Native**
 
