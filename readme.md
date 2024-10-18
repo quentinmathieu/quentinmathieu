@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://cv.quentin-mathieu.fr/](https://cv.quentin-mathieu.fr/)
 
-- ⚡ Fun fact **I'm also a web developer trainer (DWWM) !**
+- ⚡ **I'm also a web developer trainer (DWWM) !**
 
 
 <h3 align="left">Languages and Tools:</h3>
