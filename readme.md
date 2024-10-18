@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sasageyo chrome extension](https://github.com/quentinmathieu/sasageyo_chrome_extension) with [Dumb attack on titan CSS AKA 'sasageyo'](https://github.com/quentinmathieu/Attack_on_titan_CSS)
 
-- 🌱 I’m currently learning **Spring, React & React Native**
+- 🌱 I’m currently learning **Spring boot, React & React Native**
 
 - 📫 How to reach me **quentin.mathieu33@gmail.com**
 
