@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Quentin</h1>
 <h3 align="center">A fullstack developer from France.</h3>
 
-- 🔭 I’m currently working on [Concert web scraper](https://github.com/quentinmathieu/concert-web-scraper)
+- 🔭 I’m currently working on [Concert web scraper](https://github.com/quentinmathieu/concert-web-scraper) & [Itenerance solution](https://github.com/Itenerance-solution)
 
 - 🌱 I’m currently learning **Spring boot, React & React Native**
 
