@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Concert web scraper](https://github.com/quentinmathieu/concert-web-scraper) & [Itenerance solution](https://github.com/Itenerance-solution)
 
-- 🌱 I’m currently learning **Spring boot, React & React Native**
+- 🌱 I’m currently learning **Spring boot & React**
 
 - 📫 How to reach me **quentin.mathieu33@gmail.com**
 
